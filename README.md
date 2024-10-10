@@ -25,4 +25,4 @@ This project is an Amazon clone developed using **React Native** and **Expo**. I
 This project showcases the effective use of modern technologies to enhance user experience in mobile shopping applications.
 
 
-![](https://github.com/Rasime-Dumlupunar/native-amazon-prime/blob/main/amazon%20prime.gif))
+![](https://github.com/Rasime-Dumlupunar/native-amazon-prime/blob/main/amazon%20prime.gif)
